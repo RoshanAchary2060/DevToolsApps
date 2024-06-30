@@ -1,0 +1,11 @@
+5d{yyyy-MM-dd HH:mm:ss} INFO  SelectTest2:18 [main] - com.nt.jdbc.SelectTest::Log4j Setup ready
+5d{yyyy-MM-dd HH:mm:ss} DEBUG SelectTest2:26 [main] - com.nt.jdbc.SelectTest:: start of main() method
+5d{yyyy-MM-dd HH:mm:ss} DEBUG SelectTest2:33 [main] - com.nt.jdbc.SelectTest:: JDBC driver class loaded
+5d{yyyy-MM-dd HH:mm:ss} INFO  SelectTest2:36 [main] - com.nt.jdbc.SelectTest:: connection is established with DB s/w
+5d{yyyy-MM-dd HH:mm:ss} DEBUG SelectTest2:39 [main] - com.nt.jdbc.SelectTest:: Statement object is created
+5d{yyyy-MM-dd HH:mm:ss} DEBUG SelectTest2:42 [main] - com.nt.jdbc.SelectTest:: sql query is executed and ResultSet object is created
+5d{yyyy-MM-dd HH:mm:ss} WARN  SelectTest2:45 [main] - com.nt.jdbc.SelectTest:: only some records of ResultSet object are retrieved!
+5d{yyyy-MM-dd HH:mm:ss} DEBUG SelectTest2:49 [main] - com.nt.jdbc.SelectTest:: ResultSet object is processed
+5d{yyyy-MM-dd HH:mm:ss} DEBUG SelectTest2:70 [main] - com.nt.jdbc.SelectTest:: all jdbc objects closed
+5d{yyyy-MM-dd HH:mm:ss} DEBUG SelectTest2:77 [main] - com.nt.jdbc.SelectTest:: end of main() method
+5d{yyyy-MM-dd HH:mm:ss} WARN  SelectTest2:45 [main] - com.nt.jdbc.SelectTest:: only some records of ResultSet object are retrieved!
