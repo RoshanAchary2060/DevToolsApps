@@ -1,0 +1,20 @@
+2024-06-01 23:47:34 INFO com.nt.jdbc.SelectTest2       main 0 21 com.nt.jdbc.SelectTest::Log4j Setup ready
+2024-06-01 23:47:34 DEBUG com.nt.jdbc.SelectTest2       main 6 29 com.nt.jdbc.SelectTest:: start of main() method
+2024-06-01 23:47:34 DEBUG com.nt.jdbc.SelectTest2       main 376 36 com.nt.jdbc.SelectTest:: JDBC driver class loaded
+2024-06-01 23:47:35 INFO com.nt.jdbc.SelectTest2       main 816 39 com.nt.jdbc.SelectTest:: connection is established with DB s/w
+2024-06-01 23:47:35 DEBUG com.nt.jdbc.SelectTest2       main 882 42 com.nt.jdbc.SelectTest:: Statement object is created
+2024-06-01 23:47:35 DEBUG com.nt.jdbc.SelectTest2       main 908 45 com.nt.jdbc.SelectTest:: sql query is executed and ResultSet object is created
+2024-06-01 23:47:35 WARN com.nt.jdbc.SelectTest2       main 910 48 com.nt.jdbc.SelectTest:: only some records of ResultSet object are retrieved!
+2024-06-01 23:47:35 DEBUG com.nt.jdbc.SelectTest2       main 918 52 com.nt.jdbc.SelectTest:: ResultSet object is processed
+2024-06-01 23:47:35 DEBUG com.nt.jdbc.SelectTest2       main 920 73 com.nt.jdbc.SelectTest:: all jdbc objects closed
+2024-06-01 23:47:35 DEBUG com.nt.jdbc.SelectTest2       main 921 80 com.nt.jdbc.SelectTest:: end of main() method
+2024-06-01 23:47:54 INFO com.nt.jdbc.SelectTest2       main 0 21 com.nt.jdbc.SelectTest::Log4j Setup ready
+2024-06-01 23:47:54 DEBUG com.nt.jdbc.SelectTest2       main 7 29 com.nt.jdbc.SelectTest:: start of main() method
+2024-06-01 23:47:54 DEBUG com.nt.jdbc.SelectTest2       main 372 36 com.nt.jdbc.SelectTest:: JDBC driver class loaded
+2024-06-01 23:47:55 INFO com.nt.jdbc.SelectTest2       main 850 39 com.nt.jdbc.SelectTest:: connection is established with DB s/w
+2024-06-01 23:47:55 DEBUG com.nt.jdbc.SelectTest2       main 919 42 com.nt.jdbc.SelectTest:: Statement object is created
+2024-06-01 23:47:55 DEBUG com.nt.jdbc.SelectTest2       main 949 45 com.nt.jdbc.SelectTest:: sql query is executed and ResultSet object is created
+2024-06-01 23:47:55 WARN com.nt.jdbc.SelectTest2       main 950 48 com.nt.jdbc.SelectTest:: only some records of ResultSet object are retrieved!
+2024-06-01 23:47:55 DEBUG com.nt.jdbc.SelectTest2       main 966 52 com.nt.jdbc.SelectTest:: ResultSet object is processed
+2024-06-01 23:47:55 DEBUG com.nt.jdbc.SelectTest2       main 968 73 com.nt.jdbc.SelectTest:: all jdbc objects closed
+2024-06-01 23:47:55 DEBUG com.nt.jdbc.SelectTest2       main 968 80 com.nt.jdbc.SelectTest:: end of main() method

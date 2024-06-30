@@ -1,0 +1,10 @@
+2024-06-01 23:51:12 INFO com.nt.jdbc.SelectTest2       main 0 21 com.nt.jdbc.SelectTest::Log4j Setup ready
+2024-06-01 23:51:12 DEBUG com.nt.jdbc.SelectTest2       main 7 29 com.nt.jdbc.SelectTest:: start of main() method
+2024-06-01 23:51:12 DEBUG com.nt.jdbc.SelectTest2       main 393 36 com.nt.jdbc.SelectTest:: JDBC driver class loaded
+2024-06-01 23:51:12 INFO com.nt.jdbc.SelectTest2       main 921 39 com.nt.jdbc.SelectTest:: connection is established with DB s/w
+2024-06-01 23:51:13 DEBUG com.nt.jdbc.SelectTest2       main 986 42 com.nt.jdbc.SelectTest:: Statement object is created
+2024-06-01 23:51:13 DEBUG com.nt.jdbc.SelectTest2       main 1014 45 com.nt.jdbc.SelectTest:: sql query is executed and ResultSet object is created
+2024-06-01 23:51:13 WARN com.nt.jdbc.SelectTest2       main 1014 48 com.nt.jdbc.SelectTest:: only some records of ResultSet object are retrieved!
+2024-06-01 23:51:13 DEBUG com.nt.jdbc.SelectTest2       main 1036 52 com.nt.jdbc.SelectTest:: ResultSet object is processed
+2024-06-01 23:51:13 DEBUG com.nt.jdbc.SelectTest2       main 1038 73 com.nt.jdbc.SelectTest:: all jdbc objects closed
+2024-06-01 23:51:13 DEBUG com.nt.jdbc.SelectTest2       main 1039 80 com.nt.jdbc.SelectTest:: end of main() method

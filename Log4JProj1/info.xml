@@ -1,0 +1,40 @@
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759386161" level="INFO" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest::Log4j Setup ready]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759386166" level="DEBUG" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: start of main() method]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759386674" level="DEBUG" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: JDBC driver class loaded]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759387180" level="INFO" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: connection is established with DB s/w]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759387235" level="DEBUG" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: Statement object is created]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759387262" level="DEBUG" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: sql query is executed and ResultSet object is created]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759387262" level="WARN" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: only some records of ResultSet object are retrieved!]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759387281" level="DEBUG" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: ResultSet object is processed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759387284" level="DEBUG" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: all jdbc objects closed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest2" timestamp="1717759387284" level="DEBUG" thread="main">
+<log4j:message><![CDATA[com.nt.jdbc.SelectTest:: end of main() method]]></log4j:message>
+</log4j:event>
+
